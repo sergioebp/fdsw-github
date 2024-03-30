@@ -22,6 +22,7 @@ body {
   background-repeat: no-repeat;
   background-size: 100%;
   background-color: black;
+  min-height: 120vh;
 }
 
 /* Mis trabajos */
